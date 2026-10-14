@@ -29,14 +29,22 @@ This analysis explores the following questions:
 ### 1. Executive Overview
 Provides a high-level summary of business performance through key performance indicators, regional comparisons, state-level profit margins, and category-level sales and profit analysis.
 
+![Superstore Executive overview](images/overview.png)
+
 ### 2. Trends
 Examines sales and profitability patterns over time to help identify changes in business performance.
+
+![Superstore Executive trends](images/trends.png)
 
 ### 3. Products
 Explores product and category performance to identify differences in sales and profitability.
 
+![Superstore Executive products](images/products.png)
+
 ### 4. Discounts
 Investigates the relationship between discount levels and profitability, comparing profit margins, discount bands, categories, and sub-categories.
+
+![Superstore Executive discounts](images/discounts.png)
 
 ## Key Areas of Analysis
 
